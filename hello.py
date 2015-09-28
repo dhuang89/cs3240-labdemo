@@ -1,6 +1,4 @@
 __author__ = 'dlh4fx'
 
-def greeting(msg):
-     print(msg)
-
+from helper import greeting
 greeting("hello")
