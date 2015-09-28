@@ -1,3 +1,6 @@
 __author__ = 'dlh4fx'
 
-print("hello")
+def greeting(msg):
+     print(msg)
+
+greeting("hello")
